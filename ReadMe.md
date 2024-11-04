@@ -1,4 +1,4 @@
-![Alt text](https://smythos.com/wp-content/themes/generatepress_child/img/smythos-light.svg)
+e![Alt text](https://smythos.com/wp-content/themes/generatepress_child/img/smythos-light.svg)
 
 # What is SmythOS?
 
